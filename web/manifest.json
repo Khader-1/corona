@@ -1,6 +1,6 @@
 {
-    "name": "covid19",
-    "short_name": "covid19",
+    "name": "corona",
+    "short_name": "corona",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
